@@ -1,0 +1,65 @@
+body {
+  background-color: aqua;
+}
+
+#heading {
+  font-size: 50px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  background-color: orange;
+  color: white;
+  margin-top: 100px;
+}
+
+#instruction {
+  background-color: lightgoldenrodyellow;
+  font-size: 20px;
+  color: green;
+  padding: 20px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.gemImage {
+  height: 100px;
+  width: 100px;
+}
+
+#section1 {
+  margin: 20px 0 20px 0;
+  height: 100px;
+  width: 500px;
+}
+
+#targetNumber {
+  background-color: green;
+  width: 300px;
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+  font: black;
+  font-size: 20px;
+}
+
+#winAndLosse {
+  background-color: aquamarine;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+#end {
+  background-color: green;
+  width: 200px;
+  height: 100px;
+}
+
+#total {
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+#totalScore {
+  margin-top: 10px;
+  float: left;
+}
